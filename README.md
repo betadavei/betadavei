@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @betadavei
+- 👀 I’m interested in ... some stuff.
+- 🌱 I’m currently learning ... C, C#, C++, R, Javascript, (My)SQL, Python.
+- 💞️ I’m looking to collaborate on ... some stuff.
+- 📫 How to reach me ... You shouldn't.
